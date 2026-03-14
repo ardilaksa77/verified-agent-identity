@@ -8,7 +8,7 @@ on:
         required: true
         default: ardilaksa77
       agent_description:
-        description ardiardilaksa77
+        description ardilaksa77
         required: true
         default: ardilaksa77 AI Agent'
 
